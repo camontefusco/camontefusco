@@ -24,7 +24,7 @@ I’ve contributed to over 30 global clinical trials, led international research
 |--------------------------|----------------------|
 | **Data Science**         | SQL, R, Python, ggplot2, pandas, Azure, scikit-learn, TensorFlow |
 | **Pharmacometrics**      | R, nlmixr2, NONMEM, mrgsolve |
-| **Drug Development**     | GxP/CMC, regulatory filings, biologics |
+| **Drug Development**     | GxP/CMC, regulatory filings, biologics, mAbs, ADCs, mRNA vaccines, CAR-T |
 | **Clinical Experience**  | Clinical pharmacy, oncology/immunology/infectious diseases trials, M&S |
 | **Communication**        | Scientific writing, regulatory documents, interdisciplinary leadership |
 
