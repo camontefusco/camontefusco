@@ -4,7 +4,7 @@
 
 ## About Me 🔬💡
 
-** Aspiring pharmacometrician and data scientist | Python, SQL, R, SAS, Scikit-Learn | 6+ years in clinical trial and late-stage drug development of biologicals | PhD PharmaTech, M.Sc. Forensics, Pharmacist **
+Aspiring pharmacometrician and data scientist | Python, SQL, R, SAS, Scikit-Learn | 6+ years in clinical trial and late-stage drug development of biologicals | PhD PharmaTech, M.Sc. Forensics, Pharmacist
 
 I’m Carlos Montefusco Pereira – a pharmacist and researcher with 10+ years of cross-functional experience in drug development, 6+ of those in the pharmaceutical industry. With a PhD in pharmaceutical technology, I specialize in nanoparticle-based drug delivery, clinical pharmacology, and data-driven methods such as pharmacometrics and statistical modeling.
 
