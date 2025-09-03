@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos 👋 (he/him)
 
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.got2globe.com%2Feditorial%2Fao-encontro-do-encontro-das-aguas%2F&psig=AOvVaw2E54pZbjbW6IGaRKG3W6Oz&ust=1754581702743000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCmwKzE9o4DFQAAAAAdAAAAABAE)
+![Banner](banner.png)
 
 ## About Me 🔬💡
 
